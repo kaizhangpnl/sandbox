@@ -6,4 +6,4 @@ git add pushit
 git add * 
 
 git commit -m "add files" 
-git push origin master 
+git push origin main
