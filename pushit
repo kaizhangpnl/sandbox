@@ -1,0 +1,8 @@
+#!/bin/csh 
+
+git pull 
+
+git add pushit 
+
+git commit -m "add files" 
+git push origin master 
